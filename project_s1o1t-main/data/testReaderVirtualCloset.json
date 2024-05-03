@@ -1,0 +1,19 @@
+{
+  "outfits": [
+    {
+      "top": {
+        "color": "white",
+        "type": "blouse"
+      },
+      "bottom": {
+        "color": "white",
+        "type": "jeans"
+      },
+      "shoes": {
+        "color": "white",
+        "type": "sneaker"
+      },
+        "season": "spring"
+    }
+  ]
+}

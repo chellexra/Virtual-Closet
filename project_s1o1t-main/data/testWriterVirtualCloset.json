@@ -1,0 +1,32 @@
+{"outfits": [
+    {
+        "top": {
+            "color": "white",
+            "type": "blouse"
+        },
+        "bottom": {
+            "color": "white",
+            "type": "jeans"
+        },
+        "season": "spring",
+        "shoes": {
+            "color": "white",
+            "type": "sneaker"
+        }
+    },
+    {
+        "top": {
+            "color": "black",
+            "type": "Sweater"
+        },
+        "bottom": {
+            "color": "black",
+            "type": "Pants"
+        },
+        "season": "summer",
+        "shoes": {
+            "color": "black",
+            "type": "Nikes"
+        }
+    }
+]}
